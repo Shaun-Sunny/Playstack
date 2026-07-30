@@ -2,7 +2,7 @@
 
 A full-stack Employee Management System with JWT authentication, role-based access control (Super Admin / HR / Employee), organizational hierarchy, and a searchable/filterable employee dashboard.
 
-**Repo:** https://github.com/Shaun-Sunny/SpearHub
+**Repo:** https://github.com/Shaun-Sunny/Playstack
 
 ---
 
