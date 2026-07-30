@@ -31,8 +31,8 @@ ems/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Shaun-Sunny/SpearHub.git
-cd SpearHub/ems
+git clone https://github.com/Shaun-Sunny/Playstack.git
+cd Playstack/ems
 ```
 
 ### 2. Backend environment variables
